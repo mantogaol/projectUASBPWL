@@ -15,8 +15,8 @@
 
 <div class="container">
 	<div class="header">
-		<h1 class="judul"> Book Reviews </h1>
-		<h6 class="judul1"> by syarahadelas </h6>
+		<h1 class="judul"> Book Store </h1>
+		<h6 class="judul1"> by Mai-Manto-Syarah </h6>
 <div>=================================================================</div>				
 <ul>
 <li><a href="home.php">Home</a></li>
@@ -53,26 +53,26 @@
 Sebenarnya sudah beli buku ini sejak terbit untuk perpustakaan sekolah, sekitar 2015-an kayaknya. Tapi yang namanya buku perpustakaan sekolah, biasanya saya akan kalah cepat dengan murid. Begitulah nasib saat membaca buku ini. Nggak pernah nganggur di perpus, bahkan kini sampe lecek saking seringnya berpindah tangan dari murid satu ke murid lainnya. Hingga filmnya mau tayang, baru kesampaian baca</p>
 <br>
 <i>
-<p>“Kamu cantik.”<br>
+<p>â€œKamu cantik.â€<br>
 
-“Makasih.”<br>
+â€œMakasih.â€<br>
 
-“Tapi, aku belum mencintaimu.”<br>
+â€œTapi, aku belum mencintaimu.â€<br>
 
-“Enggak tahu kalau sore.” (hlm. 35)<br></p>
+â€œEnggak tahu kalau sore.â€ (hlm. 35)<br></p>
 <br>
 </i>
 <p>Saya nggak punya ekspetasi apa-apa soal buku ini. Soalnya terkadang yang digandrungi murid-murid belum tentu satu selera dengan saya. Tapi saya justru tahu banget Pidi Baiq sejak zaman kuliah (anak UNPAD ya pastilah tau lagu Sudah Jangan Ke Jatinangor garapannyanya yang melegeda itu :D). Dan saya sudah follow beliau sejak twitter baru booming dan nggak hanya saya, kayaknya hampir semua followersnya bakal difolbek. Dan lebih amazingnya lagi, kalo lagi ada waktu luang, beliau balesin satu- per satu mention yang masuk. Ya ampuunn..ramah banget. Beda banget ama penulis sebelah yang quotesnya dipake buat caption instagram aja ngamuk-ngamuk. </p>
 <br>
 <p>
 <i>
-“Kamu cemburu aku pergi dengan Kang Adi?”<br>
+â€œKamu cemburu aku pergi dengan Kang Adi?â€<br>
 
-“Ah, cemburu itu hanya untuk orang yang enggak percaya diri.”<br>
+â€œAh, cemburu itu hanya untuk orang yang enggak percaya diri.â€<br>
 
-“Jadi?”<br>
+â€œJadi?â€<br>
 
-“Dan sekarang, aku sedang tidak percaya diri.” (hlm. 296)<br></p>
+â€œDan sekarang, aku sedang tidak percaya diri.â€ (hlm. 296)<br></p>
 </i>
  <p>Jalan ceritanya sebenarnya klise banget, tentang remaja yang sedang jatuh cinta; yang cewek primadona (terlihat dari banyaknya cowok yang mendekatinya) dan yang cowok anak genk motor. Tapi entah kenapa, saya kok malah menikmati jalan cerita masa lalu Dilan dan Milea saat masih berseragam abu-abu. Meski gombalan Dilan ini kesannya menye-menye, tapi dia orisinal, bukan hasil copasan dari penyair ternama.</p>
 <br>
@@ -94,7 +94,7 @@ DILAN! (hlm. 75)<br>
 
 <p>Dilan memang selalu membahas yang nggak perlu, seperti membahas nyamuk salah satunya. Tapi rame. Tapi, seru dan selalu berhasil membuat Milea menjadi merasa senang.</p>
 <p>Sebenarnya tanpa disadari lewat tokoh Beni (pacar Milea) dan Kang Adi (guru pembimbing belajar Milea), penulis menyelipkan tentang cowok-cowok yang bakal dijauhi cewek. Lewat tokoh Beni yang merupakan pacar Milea ini, cemburuan dan kasar banget ama Milea. Ya, dia pernah melemparkan kata-kata kasar pada Milea. Meski akhirnya minta maaf beribu kali, 
-perasaan cewek pasti sudah terlanjur luka jika disebut dengan kata-kata yang tidak pantas. Bukan drama loh ya. Begitu juga dengan Milea. Meski Beni ini keren, anak orang kaya, tapi bagi Milea, cowok tipikal Beni ini bakal dicoret dari listnya. Kemudian ada Kang Adi yang ya ampuunn…tipikal carmuk banget plus seneng banget ngebanggain diri sendiri, dan kadang menjelekkan orang lain. Percayalah, tipikal cowok macam Kang Adi ini meski kuliah di tempat yang paling bergengsi, pintar, mandiri, tapi malah bikin ilfeel cewek, 
+perasaan cewek pasti sudah terlanjur luka jika disebut dengan kata-kata yang tidak pantas. Bukan drama loh ya. Begitu juga dengan Milea. Meski Beni ini keren, anak orang kaya, tapi bagi Milea, cowok tipikal Beni ini bakal dicoret dari listnya. Kemudian ada Kang Adi yang ya ampuunnâ€¦tipikal carmuk banget plus seneng banget ngebanggain diri sendiri, dan kadang menjelekkan orang lain. Percayalah, tipikal cowok macam Kang Adi ini meski kuliah di tempat yang paling bergengsi, pintar, mandiri, tapi malah bikin ilfeel cewek, 
 termasuk bagi Milea. Ngakak banget pas Dilan ama Mila mengibaratkan Kang Adi ini adalah yang monyet yangs sering mampir ke rumah Milea. </p>
 
 <b><p>Berikut ini adalah tampilan triler dari buku Dilan: 1990</p></b>
