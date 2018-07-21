@@ -14,8 +14,8 @@
 
 <div class="container">
 	<div class="header">
-		<h1 class="judul"> Book Reviews </h1>
-		<h6 class="judul1"> by syarahadelas </h6>
+		<h1 class="judul"> Book Store </h1>
+		<h6 class="judul1"> by Mai-Manto-Syarah </h6>
 
 <ul>
 <li><a href="home.php">Home</a></li>
