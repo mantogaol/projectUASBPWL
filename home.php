@@ -145,7 +145,7 @@ function carousel() {
 	</div>
 
 		<div class="footer">
-	<p class="copy">Copyright &copy 2018. Syarah Adela Shandi.</p>
+	<p class="copy">Copyright &copy 2018. Damasya.</p>
 	</div>
 	</body>
 </html>
